@@ -12,7 +12,6 @@
 |---|---|---|
 | [llm-news-tracker](https://github.com/wuhy80/llm-news-tracker) | 大模型行业情报站：GitHub Actions 定时聚合公开信息源，日/周/月三个维度 | [▶️ 访问](https://wuhy80.github.io/llm-news-tracker/) |
 | [obsidian-vault](https://github.com/wuhy80/obsidian-vault) | 个人知识库公开镜像：AI 早报自动归档、周报自动聚合、Quartz 站点自动发布 | [▶️ 阅读](https://wuhy-notes.pages.dev/) |
-| [bookmarks](https://github.com/wuhy80/bookmarks) | 纯 HTML/CSS/JS 网址导航：实时搜索 + 分类筛选，改 HTML 即维护 | [▶️ 访问](https://wuhy80.github.io/bookmarks/) |
 | [algorithm](https://github.com/wuhy80/algorithm) | 交互式算法可视化与独立实现 | [▶️ 访问](https://wuhy80.github.io/algorithm/) |
 | [app_force](https://github.com/wuhy80/app_force) | 内置 sing-box 的按需分流代理工具（Go，Win/Linux/macOS） | [⬇️ 下载](https://github.com/wuhy80/app_force/releases/latest) |
 | [flomo-web](https://github.com/wuhy80/flomo-web) | 端到端加密的 flomo 风格笔记：数据存自己的 GitHub 仓库，只有密文 | [▶️ 访问](https://wuhy80.github.io/flomo-web/) |
